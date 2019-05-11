@@ -1,5 +1,5 @@
 # quickstart-taskcat-ci
-## CI/CD Pipeline for AWS CloudFormation Templates Using TaskCat on the AWS Cloud
+## Joes CI/CD Pipeline for AWS CloudFormation Templates Using TaskCat on the AWS Cloud
 
 
 This Quick Start deploys a continuous integration and continuous delivery (CI/CD) pipeline on the Amazon Web Services (AWS) Cloud for automatically testing AWS CloudFormation templates from a GitHub repository. 
